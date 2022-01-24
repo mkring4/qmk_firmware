@@ -21,10 +21,10 @@
 #define ___ KC_NO
 
 //  ESC  F1   F2   F3   F4   F5   F6   F7   F8   F9   F10  F11  F12  Prt      Rotary(Mute)
-//  `    1    2    3    4    5    6    7    8    9    0    -    =    BSpc     Del
-//  Tab  Q    W    E    R    T    Y    U    I    O    P    [    ]             PgUp
-//  Caps A    S    D    F    G    H    J    K    L    ;    '    #    Enter    PgDn
-//  Sh_L \    Z    X    C    V    B    N    M    ,    .    /    Sh_R     Up   End
+//  §    1    2    3    4    5    6    7    8    9    0    +    ´    BSpc     Del
+//  Tab  Q    W    E    R    T    Y    U    I    O    P    Å    ¨             PgUp
+//  Caps A    S    D    F    G    H    J    K    L    Ö    Ä    '    Enter    PgDn
+//  Sh_L <    Z    X    C    V    B    N    M    ,    .    -    Sh_R     Up   End
 //  Ct_L    Win_L   Alt_L      SPACE          Alt_R   FN   Ct_R     Left Down Right
 
 // clang-format off
